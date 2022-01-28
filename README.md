@@ -10,3 +10,7 @@
 - *(querySelector ile html elementlerine erişim sağlayabilirsiniz)*
 - *(style, classList ile stillerle oynayabilirsiniz)*
 - *(addEventListener ile kullanıcı etkileşimlerini yakalayabilirsiniz)*
+
+<img src="https://github.com/142-Bupa-Acibadem-FullStack-Bootcamp//week-6-assignment-2-eamre/blob/main/image1.PNG?raw=true" width="380" >
+<img src="https://github.com/142-Bupa-Acibadem-FullStack-Bootcamp//week-6-assignment-2-eamre/blob/main/image2.PNG?raw=true" width="380" >
+<img src="https://github.com/142-Bupa-Acibadem-FullStack-Bootcamp//week-6-assignment-2-eamre/blob/main/image3.PNG?raw=true" width="380" >
